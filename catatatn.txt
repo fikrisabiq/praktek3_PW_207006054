@@ -1,0 +1,8 @@
+Nama : Fikri Fauzan Sabiq
+NPM : 207006054
+Kelas : B
+
+username: fikri
+password: 123
+
+Untuk menjalankan ketikan php spark
