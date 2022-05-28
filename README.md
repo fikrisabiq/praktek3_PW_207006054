@@ -7,3 +7,4 @@ Kelas : B<br/>
 Login<br/>
 Username : fikri<br/>
 password : 123<br/>
+Untuk menjalankan program, ketikan "php spark serve" di command line. Lalu ketikan url localhost://8080
